@@ -1,0 +1,1039 @@
+[
+    {
+        "id": 1,
+        "name": "أحمد الحواشي",
+        "server": "https://server11.mp3quran.net/hawashi",
+        "rewaya": "حفص عن عاصم",
+        "letter": "أ",
+        "count": "114",
+        "suras": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114",
+        "audio": [
+            {
+                "id": 1,
+                "name": "الفاتحة",
+                "english_name": "The Opening",
+                "translation": "Al-Fatihah",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/001.mp3"
+            },
+            {
+                "id": 2,
+                "name": "البقرة",
+                "english_name": "The Cow",
+                "translation": "Al-Baqarah",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/002.mp3"
+            },
+            {
+                "id": 3,
+                "name": "آل عمران",
+                "english_name": "The Family of Imraan",
+                "translation": "Ali 'Imran",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/003.mp3"
+            },
+            {
+                "id": 4,
+                "name": "النساء",
+                "english_name": "The Women",
+                "translation": "An-Nisa",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/004.mp3"
+            },
+            {
+                "id": 5,
+                "name": "المائدة",
+                "english_name": "The Table",
+                "translation": "Al-Ma'idah",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/005.mp3"
+            },
+            {
+                "id": 6,
+                "name": "الأنعام",
+                "english_name": "The Cattle",
+                "translation": "Al-An'am",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/006.mp3"
+            },
+            {
+                "id": 7,
+                "name": "الأعراف",
+                "english_name": "The Heights",
+                "translation": "Al-A'raf",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/007.mp3"
+            },
+            {
+                "id": 8,
+                "name": "الأنفال",
+                "english_name": "The Spoils of War",
+                "translation": "Al-Anfal",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/008.mp3"
+            },
+            {
+                "id": 9,
+                "name": "التوبة",
+                "english_name": "The Repentance",
+                "translation": "At-Tawbah",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/009.mp3"
+            },
+            {
+                "id": 10,
+                "name": "يونس",
+                "english_name": "Jonas",
+                "translation": "Yunus",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/010.mp3"
+            },
+            {
+                "id": 11,
+                "name": "هود",
+                "english_name": "Hud",
+                "translation": "Hud",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/011.mp3"
+            },
+            {
+                "id": 12,
+                "name": "يوسف",
+                "english_name": "Joseph",
+                "translation": "Yusuf",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/012.mp3"
+            },
+            {
+                "id": 13,
+                "name": "الرعد",
+                "english_name": "The Thunder",
+                "translation": "Ar-Ra'd",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/013.mp3"
+            },
+            {
+                "id": 14,
+                "name": "إبراهيم",
+                "english_name": "Abraham",
+                "translation": "Ibrahim",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/014.mp3"
+            },
+            {
+                "id": 15,
+                "name": "الحجر",
+                "english_name": "The Rock",
+                "translation": "Al-Hijr",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/015.mp3"
+            },
+            {
+                "id": 16,
+                "name": "النحل",
+                "english_name": "The Bee",
+                "translation": "An-Nahl",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/016.mp3"
+            },
+            {
+                "id": 17,
+                "name": "الإسراء",
+                "english_name": "The Night Journey",
+                "translation": "Al-Isra",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/017.mp3"
+            },
+            {
+                "id": 18,
+                "name": "الكهف",
+                "english_name": "The Cave",
+                "translation": "Al-Kahf",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/018.mp3"
+            },
+            {
+                "id": 19,
+                "name": "مريم",
+                "english_name": "Mary",
+                "translation": "Maryam",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/019.mp3"
+            },
+            {
+                "id": 20,
+                "name": "طه",
+                "english_name": "Taahaa",
+                "translation": "Taha",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/020.mp3"
+            },
+            {
+                "id": 21,
+                "name": "الأنبياء",
+                "english_name": "The Prophets",
+                "translation": "Al-Anbya",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/021.mp3"
+            },
+            {
+                "id": 22,
+                "name": "الحج",
+                "english_name": "The Pilgrimage",
+                "translation": "Al-Hajj",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/022.mp3"
+            },
+            {
+                "id": 23,
+                "name": "المؤمنون",
+                "english_name": "The Believers",
+                "translation": "Al-Mu'minun",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/023.mp3"
+            },
+            {
+                "id": 24,
+                "name": "النور",
+                "english_name": "The Light",
+                "translation": "An-Nur",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/024.mp3"
+            },
+            {
+                "id": 25,
+                "name": "الفرقان",
+                "english_name": "The Criterion",
+                "translation": "Al-Furqan",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/025.mp3"
+            },
+            {
+                "id": 26,
+                "name": "الشعراء",
+                "english_name": "The Poets",
+                "translation": "Ash-Shu'ara",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/026.mp3"
+            },
+            {
+                "id": 27,
+                "name": "النمل",
+                "english_name": "The Ant",
+                "translation": "An-Naml",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/027.mp3"
+            },
+            {
+                "id": 28,
+                "name": "القصص",
+                "english_name": "The Stories",
+                "translation": "Al-Qasas",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/028.mp3"
+            },
+            {
+                "id": 29,
+                "name": "العنكبوت",
+                "english_name": "The Spider",
+                "translation": "Al-'Ankabut",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/029.mp3"
+            },
+            {
+                "id": 30,
+                "name": "الروم",
+                "english_name": "The Romans",
+                "translation": "Ar-Rum",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/030.mp3"
+            },
+            {
+                "id": 31,
+                "name": "لقمان",
+                "english_name": "Luqman",
+                "translation": "Luqman",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/031.mp3"
+            },
+            {
+                "id": 32,
+                "name": "السجدة",
+                "english_name": "The Prostration",
+                "translation": "As-Sajdah",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/032.mp3"
+            },
+            {
+                "id": 33,
+                "name": "الأحزاب",
+                "english_name": "The Clans",
+                "translation": "Al-Ahzab",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/033.mp3"
+            },
+            {
+                "id": 34,
+                "name": "سبأ",
+                "english_name": "Sheba",
+                "translation": "Saba",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/034.mp3"
+            },
+            {
+                "id": 35,
+                "name": "فاطر",
+                "english_name": "The Originator",
+                "translation": "Fatir",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/035.mp3"
+            },
+            {
+                "id": 36,
+                "name": "يس",
+                "english_name": "Yaseen",
+                "translation": "Ya-Sin",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/036.mp3"
+            },
+            {
+                "id": 37,
+                "name": "الصافات",
+                "english_name": "Those drawn up in Ranks",
+                "translation": "As-Saffat",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/037.mp3"
+            },
+            {
+                "id": 38,
+                "name": "ص",
+                "english_name": "The letter Saad",
+                "translation": "Sad",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/038.mp3"
+            },
+            {
+                "id": 39,
+                "name": "الزمر",
+                "english_name": "The Groups",
+                "translation": "Az-Zumar",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/039.mp3"
+            },
+            {
+                "id": 40,
+                "name": "غافر",
+                "english_name": "The Forgiver",
+                "translation": "Ghafir",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/040.mp3"
+            },
+            {
+                "id": 41,
+                "name": "فصلت",
+                "english_name": "Explained in detail",
+                "translation": "Fussilat",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/041.mp3"
+            },
+            {
+                "id": 42,
+                "name": "الشورى",
+                "english_name": "Consultation",
+                "translation": "Ash-Shuraa",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/042.mp3"
+            },
+            {
+                "id": 43,
+                "name": "الزخرف",
+                "english_name": "Ornaments of gold",
+                "translation": "Az-Zukhruf",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/043.mp3"
+            },
+            {
+                "id": 44,
+                "name": "الدخان",
+                "english_name": "The Smoke",
+                "translation": "Ad-Dukhan",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/044.mp3"
+            },
+            {
+                "id": 45,
+                "name": "الجاثية",
+                "english_name": "Crouching",
+                "translation": "Al-Jathiyah",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/045.mp3"
+            },
+            {
+                "id": 46,
+                "name": "الأحقاف",
+                "english_name": "The Dunes",
+                "translation": "Al-Ahqaf",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/046.mp3"
+            },
+            {
+                "id": 47,
+                "name": "محمد",
+                "english_name": "Muhammad",
+                "translation": "Muhammad",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/047.mp3"
+            },
+            {
+                "id": 48,
+                "name": "الفتح",
+                "english_name": "The Victory",
+                "translation": "Al-Fath",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/048.mp3"
+            },
+            {
+                "id": 49,
+                "name": "الحجرات",
+                "english_name": "The Inner Apartments",
+                "translation": "Al-Hujurat",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/049.mp3"
+            },
+            {
+                "id": 50,
+                "name": "ق",
+                "english_name": "The letter Qaaf",
+                "translation": "Qaf",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/050.mp3"
+            },
+            {
+                "id": 51,
+                "name": "الذاريات",
+                "english_name": "The Winnowing Winds",
+                "translation": "Adh-Dhariyat",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/051.mp3"
+            },
+            {
+                "id": 52,
+                "name": "الطور",
+                "english_name": "The Mount",
+                "translation": "At-Tur",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/052.mp3"
+            },
+            {
+                "id": 53,
+                "name": "النجم",
+                "english_name": "The Star",
+                "translation": "An-Najm",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/053.mp3"
+            },
+            {
+                "id": 54,
+                "name": "القمر",
+                "english_name": "The Moon",
+                "translation": "Al-Qamar",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/054.mp3"
+            },
+            {
+                "id": 55,
+                "name": "الرحمن",
+                "english_name": "The Beneficent",
+                "translation": "Ar-Rahman",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/055.mp3"
+            },
+            {
+                "id": 56,
+                "name": "الواقعة",
+                "english_name": "The Inevitable",
+                "translation": "Al-Waqi'ah",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/056.mp3"
+            },
+            {
+                "id": 57,
+                "name": "الحديد",
+                "english_name": "The Iron",
+                "translation": "Al-Hadid",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/057.mp3"
+            },
+            {
+                "id": 58,
+                "name": "المجادلة",
+                "english_name": "The Pleading Woman",
+                "translation": "Al-Mujadila",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/058.mp3"
+            },
+            {
+                "id": 59,
+                "name": "الحشر",
+                "english_name": "The Exile",
+                "translation": "Al-Hashr",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/059.mp3"
+            },
+            {
+                "id": 60,
+                "name": "الممتحنة",
+                "english_name": "She that is to be examined",
+                "translation": "Al-Mumtahanah",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/060.mp3"
+            },
+            {
+                "id": 61,
+                "name": "الصف",
+                "english_name": "The Ranks",
+                "translation": "As-Saf",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/061.mp3"
+            },
+            {
+                "id": 62,
+                "name": "الجمعة",
+                "english_name": "Friday",
+                "translation": "Al-Jumu'ah",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/062.mp3"
+            },
+            {
+                "id": 63,
+                "name": "المنافقون",
+                "english_name": "The Hypocrites",
+                "translation": "Al-Munafiqun",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/063.mp3"
+            },
+            {
+                "id": 64,
+                "name": "التغابن",
+                "english_name": "Mutual Disillusion",
+                "translation": "At-Taghabun",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/064.mp3"
+            },
+            {
+                "id": 65,
+                "name": "الطلاق",
+                "english_name": "Divorce",
+                "translation": "At-Talaq",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/065.mp3"
+            },
+            {
+                "id": 66,
+                "name": "التحريم",
+                "english_name": "The Prohibition",
+                "translation": "At-Tahrim",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/066.mp3"
+            },
+            {
+                "id": 67,
+                "name": "الملك",
+                "english_name": "The Sovereignty",
+                "translation": "Al-Mulk",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/067.mp3"
+            },
+            {
+                "id": 68,
+                "name": "القلم",
+                "english_name": "The Pen",
+                "translation": "Al-Qalam",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/068.mp3"
+            },
+            {
+                "id": 69,
+                "name": "الحاقة",
+                "english_name": "The Reality",
+                "translation": "Al-Haqqah",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/069.mp3"
+            },
+            {
+                "id": 70,
+                "name": "المعارج",
+                "english_name": "The Ascending Stairways",
+                "translation": "Al-Ma'arij",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/070.mp3"
+            },
+            {
+                "id": 71,
+                "name": "نوح",
+                "english_name": "Nooh",
+                "translation": "Nuh",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/071.mp3"
+            },
+            {
+                "id": 72,
+                "name": "الجن",
+                "english_name": "the Jinn",
+                "translation": "Al-Jinn",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/072.mp3"
+            },
+            {
+                "id": 73,
+                "name": "المزمل",
+                "english_name": "The Enshrouded One",
+                "translation": "Al-Muzzammil",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/073.mp3"
+            },
+            {
+                "id": 74,
+                "name": "المدثر",
+                "english_name": "The Cloaked One",
+                "translation": "Al-Muddaththir",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/074.mp3"
+            },
+            {
+                "id": 75,
+                "name": "القيامة",
+                "english_name": "The Resurrection",
+                "translation": "Al-Qiyamah",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/075.mp3"
+            },
+            {
+                "id": 76,
+                "name": "الإنسان",
+                "english_name": "Man",
+                "translation": "Al-Insan",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/076.mp3"
+            },
+            {
+                "id": 77,
+                "name": "المرسلات",
+                "english_name": "The Emissaries",
+                "translation": "Al-Mursalat",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/077.mp3"
+            },
+            {
+                "id": 78,
+                "name": "النبأ",
+                "english_name": "The Emissaries",
+                "translation": "An-Naba",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/078.mp3"
+            },
+            {
+                "id": 79,
+                "name": "النازعات",
+                "english_name": "Those who drag forth",
+                "translation": "An-Nazi'at",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/079.mp3"
+            },
+            {
+                "id": 80,
+                "name": "عبس",
+                "english_name": "He frowned",
+                "translation": "'Abasa",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/080.mp3"
+            },
+            {
+                "id": 81,
+                "name": "التكوير",
+                "english_name": "The Overthrowing",
+                "translation": "At-Takwir",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/081.mp3"
+            },
+            {
+                "id": 82,
+                "name": "الانفطار",
+                "english_name": "The Cleaving",
+                "translation": "Al-Infitar",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/082.mp3"
+            },
+            {
+                "id": 83,
+                "name": "المطففين",
+                "english_name": "Defrauding",
+                "translation": "Al-Mutaffifin",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/083.mp3"
+            },
+            {
+                "id": 84,
+                "name": "الانشقاق",
+                "english_name": "The Splitting Open",
+                "translation": "Al-Inshiqaq",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/084.mp3"
+            },
+            {
+                "id": 85,
+                "name": "البروج",
+                "english_name": "The Constellations",
+                "translation": "Al-Buruj",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/085.mp3"
+            },
+            {
+                "id": 86,
+                "name": "الطارق",
+                "english_name": "The Morning Star",
+                "translation": "At-Tariq",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/086.mp3"
+            },
+            {
+                "id": 87,
+                "name": "الأعلى",
+                "english_name": "The Most High",
+                "translation": "Al-A'la",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/087.mp3"
+            },
+            {
+                "id": 88,
+                "name": "الغاشية",
+                "english_name": "The Overwhelming",
+                "translation": "Al-Ghashiyah",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/088.mp3"
+            },
+            {
+                "id": 89,
+                "name": "الفجر",
+                "english_name": "The Dawn",
+                "translation": "Al-Fajr",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/089.mp3"
+            },
+            {
+                "id": 90,
+                "name": "البلد",
+                "english_name": "The City",
+                "translation": "Al-Balad",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/090.mp3"
+            },
+            {
+                "id": 91,
+                "name": "الشمس",
+                "english_name": "The Sun",
+                "translation": "Ash-Shams",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/091.mp3"
+            },
+            {
+                "id": 92,
+                "name": "الليل",
+                "english_name": "The Night",
+                "translation": "Al-Layl",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/092.mp3"
+            },
+            {
+                "id": 93,
+                "name": "الضحى",
+                "english_name": "The Morning Hours",
+                "translation": "Ad-Duhaa",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/093.mp3"
+            },
+            {
+                "id": 94,
+                "name": "الشرح",
+                "english_name": "The Consolation",
+                "translation": "Ash-Sharh",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/094.mp3"
+            },
+            {
+                "id": 95,
+                "name": "التين",
+                "english_name": "The Fig",
+                "translation": "At-Tin",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/095.mp3"
+            },
+            {
+                "id": 96,
+                "name": "العلق",
+                "english_name": "The Clot",
+                "translation": "Al-'Alaq",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/096.mp3"
+            },
+            {
+                "id": 97,
+                "name": "القدر",
+                "english_name": "The Power, Fate",
+                "translation": "Al-Qadr",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/097.mp3"
+            },
+            {
+                "id": 98,
+                "name": "البينة",
+                "english_name": "The Evidence",
+                "translation": "Al-Bayyinah",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/098.mp3"
+            },
+            {
+                "id": 99,
+                "name": "الزلزلة",
+                "english_name": "The Earthquakee",
+                "translation": "Az-Zalzalah",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/099.mp3"
+            },
+            {
+                "id": 100,
+                "name": "العاديات",
+                "english_name": "The Chargers",
+                "translation": "Al-'Adiyat",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/100.mp3"
+            },
+            {
+                "id": 101,
+                "name": "القارعة",
+                "english_name": "The Calamity",
+                "translation": "Al-Qari'ah",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/101.mp3"
+            },
+            {
+                "id": 102,
+                "name": "التكاثر",
+                "english_name": "Competition",
+                "translation": "At-Takathur",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/102.mp3"
+            },
+            {
+                "id": 103,
+                "name": "العصر",
+                "english_name": "The Declining Day, Epoch",
+                "translation": "Al-'Asr",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/103.mp3"
+            },
+            {
+                "id": 104,
+                "name": "الهمزة",
+                "english_name": "The Traducer",
+                "translation": "Al-Humazah",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/104.mp3"
+            },
+            {
+                "id": 105,
+                "name": "الفيل",
+                "english_name": "The Elephant",
+                "translation": "Al-Fil",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/105.mp3"
+            },
+            {
+                "id": 106,
+                "name": "قريش",
+                "english_name": "Quraysh",
+                "translation": "Quraysh",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/106.mp3"
+            },
+            {
+                "id": 107,
+                "name": "الماعون",
+                "english_name": "Almsgiving",
+                "translation": "Al-Ma'un",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/107.mp3"
+            },
+            {
+                "id": 108,
+                "name": "الكوثر",
+                "english_name": "Abundance",
+                "translation": "Al-Kawthar",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/108.mp3"
+            },
+            {
+                "id": 109,
+                "name": "الكافرون",
+                "english_name": "The Disbelievers",
+                "translation": "Al-Kafirun",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/109.mp3"
+            },
+            {
+                "id": 110,
+                "name": "النصر",
+                "english_name": "Divine Support",
+                "translation": "An-Nasr",
+                "descent": "مدنية",
+                "descent_english": "medinan",
+                "link": "https://server11.mp3quran.net/hawashi/110.mp3"
+            },
+            {
+                "id": 111,
+                "name": "المسد",
+                "english_name": "The Palm Fibre",
+                "translation": "Al-Masad",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/111.mp3"
+            },
+            {
+                "id": 112,
+                "name": "الإخلاص",
+                "english_name": "Sincerity",
+                "translation": "Al-Ikhlas",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/112.mp3"
+            },
+            {
+                "id": 113,
+                "name": "الفلق",
+                "english_name": "The Dawn",
+                "translation": "Al-Falaq",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/113.mp3"
+            },
+            {
+                "id": 114,
+                "name": "الناس",
+                "english_name": "Mankind",
+                "translation": "An-Nas",
+                "descent": "مكية",
+                "descent_english": "meccan",
+                "link": "https://server11.mp3quran.net/hawashi/114.mp3"
+            }
+        ]
+    }
+]

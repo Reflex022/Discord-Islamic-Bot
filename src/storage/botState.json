@@ -1,0 +1,67 @@
+{
+  "connections": [],
+  "azkar": [
+    {
+      "guildId": "1354442902633316382",
+      "channelId": "1399676330878173247",
+      "interval": true,
+      "duration": 1800000,
+      "startTime": 1770238339223
+    }
+  ],
+  "duas": [
+    {
+      "guildId": "1354442902633316382",
+      "channelId": "1399676330878173247",
+      "interval": true,
+      "duration": 1800000,
+      "startTime": 1770238387789
+    }
+  ],
+  "recentAzkar": [
+    {
+      "guildId": "1354442902633316382",
+      "usedItems": [
+        {
+          "id": 367,
+          "timestamp": 1770236524284
+        },
+        {
+          "id": 135,
+          "timestamp": 1770236721533
+        },
+        {
+          "id": 187,
+          "timestamp": 1770236764172
+        },
+        {
+          "id": 181,
+          "timestamp": 1770237201758
+        },
+        {
+          "id": 313,
+          "timestamp": 1770237448983
+        },
+        {
+          "id": 73,
+          "timestamp": 1770238338885
+        }
+      ]
+    }
+  ],
+  "recentDuas": [
+    {
+      "guildId": "1354442902633316382",
+      "usedItems": [
+        {
+          "id": 328,
+          "timestamp": 1770237470756
+        },
+        {
+          "id": 95,
+          "timestamp": 1770238387479
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "discord-islamic-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Quran, Azkar, and Duas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "islamic",
+    "quran",
+    "azkar",
+    "duas",
+    "muslim"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=7.0.0"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.10.0",
+    "@discordjs/voice": "^0.19.0",
+    "@snazzah/davey": "^0.1.9",
+    "canvas": "^3.2.1",
+    "cloudinary": "^2.9.0",
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.3",
+    "sharp": "^0.34.5",
+    "sodium-native": "^5.0.6"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
