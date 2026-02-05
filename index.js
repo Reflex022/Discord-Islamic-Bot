@@ -22,9 +22,7 @@ const { getAvailableZikr, getAvailableDua, markZikrAsUsed, markDuaAsUsed } = req
 const client = new Client({
     intents: [
         GatewayIntentBits.Guilds,
-        GatewayIntentBits.GuildMessages,
         GatewayIntentBits.GuildVoiceStates,
-        GatewayIntentBits.MessageContent
     ]
 });
 
@@ -51,6 +49,9 @@ client.connectionPool = new ConnectionPool(100);
 
 const { ResourceManager } = require('./utils/resourceManager');
 client.resourceManager = new ResourceManager(client);
+
+const RateLimiter = require('./utils/rateLimiter');
+client.rateLimiter = new RateLimiter(10, 60000);
 
 
 const azkarData = loadJSONFile(path.join(__dirname, 'data', 'azkar.json'), []);
@@ -102,6 +103,10 @@ function cleanup() {
 
     if (client.connectionPool) {
         client.connectionPool.closeAll();
+    }
+
+    if (client.rateLimiter) {
+        client.rateLimiter.destroy();
     }
 
     saveState(client);

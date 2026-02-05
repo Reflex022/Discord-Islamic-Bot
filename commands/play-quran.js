@@ -2,6 +2,7 @@
 const { SlashCommandBuilder, StringSelectMenuBuilder, StringSelectMenuOptionBuilder, ActionRowBuilder, MessageFlags } = require('discord.js');
 const { joinVoiceChannel, createAudioPlayer, createAudioResource, AudioPlayerStatus } = require('@discordjs/voice');
 const logger = require('../utils/logger');
+const Validator = require('../utils/validator');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -9,9 +10,10 @@ module.exports = {
         .setDescription('تشغيل إذاعة القرآن الكريم'),
 
     async execute(interaction, client) {
-        if (!interaction.member.voice.channel) {
+        const voiceCheck = Validator.validateVoiceChannel(interaction.member.voice.channel);
+        if (!voiceCheck.valid) {
             return interaction.reply({
-                content: 'يجب أن تكون في روم صوتي لتشغيل الإذاعة',
+                content: `❌ ${voiceCheck.error}`,
                 flags: MessageFlags.Ephemeral
             });
         }

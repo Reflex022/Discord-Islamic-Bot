@@ -3,6 +3,7 @@ const { SlashCommandBuilder, MessageFlags } = require('discord.js');
 const logger = require('../utils/logger');
 const { safeReply, safeSend } = require('../utils/discordHelpers');
 const { sendDua } = require('../src/services/schedulerService');
+const Validator = require('../utils/validator');
 
 module.exports = {
     data: new SlashCommandBuilder()
@@ -20,6 +21,14 @@ module.exports = {
         const duration = interaction.options.getInteger('المدة');
         const channelId = interaction.channelId;
         const guildId = interaction.guildId;
+
+        const durationCheck = Validator.validateDuration(duration);
+        if (!durationCheck.valid) {
+            return safeReply(interaction, {
+                content: `❌ ${durationCheck.error}`,
+                flags: MessageFlags.Ephemeral
+            });
+        }
 
         if (client.activeDuas.has(guildId)) {
             return safeReply(interaction, {

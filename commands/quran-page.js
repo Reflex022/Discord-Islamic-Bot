@@ -2,6 +2,7 @@ const { SlashCommandBuilder, AttachmentBuilder, EmbedBuilder, ButtonBuilder, But
 const logger = require('../utils/logger');
 const https = require('https');
 const { createCanvas, loadImage } = require('canvas');
+const Validator = require('../utils/validator');
 
 const CLOUDINARY_BASE_URL = 'https://res.cloudinary.com/waleed022/image/upload';
 
@@ -19,6 +20,14 @@ module.exports = {
 
     async execute(interaction, client) {
         let pageNumber = interaction.options.getInteger('رقم_الصفحة');
+
+        if (!Number.isInteger(pageNumber) || pageNumber < 1 || pageNumber > 604) {
+            return interaction.reply({
+                content: '❌ رقم الصفحة يجب أن يكون بين 1 و 604',
+                flags: 64
+            });
+        }
+
         await sendQuranPage(interaction, pageNumber);
     }
 };

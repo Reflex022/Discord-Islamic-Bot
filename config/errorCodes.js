@@ -13,11 +13,6 @@ module.exports = {
         message: 'البوت لا يملك الصلاحيات المطلوبة',
         severity: 'error'
     },
-    ERR_MISSING_MANAGE_MESSAGES: {
-        code: 1003,
-        message: 'البوت يحتاج صلاحية إدارة الرسائل',
-        severity: 'error'
-    },
     ERR_NOT_IN_VOICE: {
         code: 2001,
         message: 'يجب أن تكون في روم صوتي',

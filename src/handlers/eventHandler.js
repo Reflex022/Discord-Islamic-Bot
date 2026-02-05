@@ -186,6 +186,16 @@ function registerEvents(client) {
             });
         }
 
+        if (client.rateLimiter) {
+            const rateCheck = client.rateLimiter.check(interaction.user.id);
+            if (rateCheck.limited) {
+                return safeReply(interaction, {
+                    content: `⏳ لقد تجاوزت حد الطلبات، انتظر ${rateCheck.retryAfter} ثانية`,
+                    flags: 64
+                });
+            }
+        }
+
         const cooldownKey = `${interaction.guildId}-${interaction.user.id}`;
         const now = Date.now();
         const cooldownTime = client.config?.COMMAND_COOLDOWN_MS || 3000;

@@ -14,14 +14,11 @@ module.exports = {
         CLEANUP_INTERVAL_MS: 30 * 60 * 1000, 
         VOICE_MONITOR_INTERVAL_MS: 30 * 1000,
         RECONNECT_DELAY_MS: 2000,
-        MESSAGE_DELETE_DELAY_MS: 100,
         SURAH_TRANSITION_DELAY_MS: 2000
     },
     
     LIMITS: {
         MAX_RECONNECT_ATTEMPTS: 3,
-        MESSAGE_FETCH_LIMIT: 25,
-        BATCH_SIZE: 5, 
         MAX_RETRIES: 3, 
         LOG_RETENTION_DAYS: 7 
     },
@@ -121,7 +118,6 @@ module.exports = {
     
     REQUIRED_PERMISSIONS: {
         ADMINISTRATOR: 'Administrator',
-        MANAGE_MESSAGES: 'ManageMessages',
         SEND_MESSAGES: 'SendMessages',
         CONNECT: 'Connect',
         SPEAK: 'Speak'
